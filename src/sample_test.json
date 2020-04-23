@@ -1,0 +1,12 @@
+{
+    "testCase": [
+        {
+            "name": "TC_01",
+            "description": "sample test_case_description_1"
+        },
+        {
+            "name": "TC_02",
+            "description": "sample test_case_description_2"
+        }
+    ]
+}
